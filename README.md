@@ -28,7 +28,8 @@ The `style.css` file contains the styles for the application, including styles f
 
 ## Screenshot
 
-![Screenshot of the application](screenshot.png)
+
+![screenshot](https://github.com/user-attachments/assets/7ce6e203-92b9-4af7-a09e-4984d82b59ea)
 
 ## Author
 
