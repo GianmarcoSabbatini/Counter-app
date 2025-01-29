@@ -75,3 +75,18 @@ button {
     75% { transform: translateX(-5px); }
     100% { transform: translateX(0); }
 }
+
+@media (max-width: 768px) {
+    header h1 {
+        text-align: left;
+        font-size: 1.5rem;
+    }
+
+    #counter {
+        font-size: 5rem;
+    }
+
+    button {
+        font-size: 1rem;
+    }
+}
