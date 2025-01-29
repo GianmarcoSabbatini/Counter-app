@@ -18,7 +18,7 @@ This is a simple web application for counting, with the ability to increment, de
 
 ## How to Use
 
-1. Clone the repository or download the files.
+1. Clone the repository or download the files or go to this link (https://counter-app-gianmarco-sabbatini.netlify.app/)
 2. Open `index.html` in a web browser.
 3. Use the buttons or the keyboard to interact with the counter.
 
